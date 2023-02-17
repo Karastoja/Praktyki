@@ -1,7 +1,10 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System;
+using System.Collections.Generic;
 using System.Net.Http;
+using Newtonsoft.Json;
 
 namespace ZadGitlab
 {
@@ -59,12 +62,15 @@ namespace ZadGitlab
         {
             using (var httpClient = new HttpClient())
             {
-                HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Post, $"https://gitlab.com/api/v4/projects/{projectId}/issues/{issueId}/notes?access_token={accessToken}&body={noteBody}");
+                HttpRequestMessage request = new HttpRequestMessage(HttpMethod.Post, $"https://gitlab.com/api/v4/projects/{projectId}/issues/{issueId}/notes?access_token={accessToken}");
+                request.Content = new FormUrlEncodedContent(new Dictionary<string, string>
+                {
+                    { "body", noteBody }
+                });
                 var responseMessage = httpClient.SendAsync(request).Result;
 
-                Console.WriteLine("Dodano notatke");
+                Console.WriteLine("Dodano notatkę");
             }
         }
     }
 }
-
