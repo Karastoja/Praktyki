@@ -1,0 +1,14 @@
+C:\Users\Nauczyciel\Desktop\projects\Szyfrowanie\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.exe.config
+C:\Users\Nauczyciel\Desktop\projects\Szyfrowanie\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.exe
+C:\Users\Nauczyciel\Desktop\projects\Szyfrowanie\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.pdb
+C:\Users\Nauczyciel\Desktop\projects\Szyfrowanie\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csproj.AssemblyReference.cache
+C:\Users\Nauczyciel\Desktop\projects\Szyfrowanie\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csproj.CoreCompileInputs.cache
+C:\Users\Nauczyciel\Desktop\projects\Szyfrowanie\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.exe
+C:\Users\Nauczyciel\Desktop\projects\Szyfrowanie\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.pdb
+C:\xampp\htdocs\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.exe.config
+C:\xampp\htdocs\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.exe
+C:\xampp\htdocs\Szyfrowanie\Szyfrowanie\bin\Debug\Szyfrowanie.pdb
+C:\xampp\htdocs\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.exe
+C:\xampp\htdocs\Szyfrowanie\Szyfrowanie\obj\Debug\Szyfrowanie.pdb
