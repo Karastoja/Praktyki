@@ -1,0 +1,10 @@
+C:\Users\Nauczyciel\Desktop\projects\EdycjaTekstu\EdycjaTekstu\EdycjaTekstu\obj\Debug\EdycjaTekstu.csproj.AssemblyReference.cache
+C:\Users\Nauczyciel\Desktop\projects\EdycjaTekstu\EdycjaTekstu\EdycjaTekstu\obj\Debug\EdycjaTekstu.Properties.Resources.resources
+C:\Users\Nauczyciel\Desktop\projects\EdycjaTekstu\EdycjaTekstu\EdycjaTekstu\obj\Debug\EdycjaTekstu.csproj.GenerateResource.cache
+C:\Users\Nauczyciel\Desktop\projects\EdycjaTekstu\EdycjaTekstu\EdycjaTekstu\obj\Debug\EdycjaTekstu.csproj.CoreCompileInputs.cache
+C:\Users\Nauczyciel\Desktop\projects\EdycjaTekstu\EdycjaTekstu\EdycjaTekstu\bin\Debug\EdycjaTekstu.exe.config
+C:\Users\Nauczyciel\Desktop\projects\EdycjaTekstu\EdycjaTekstu\EdycjaTekstu\bin\Debug\EdycjaTekstu.exe
+C:\Users\Nauczyciel\Desktop\projects\EdycjaTekstu\EdycjaTekstu\EdycjaTekstu\bin\Debug\EdycjaTekstu.pdb
+C:\Users\Nauczyciel\Desktop\projects\EdycjaTekstu\EdycjaTekstu\EdycjaTekstu\obj\Debug\EdycjaTekstu.Form1.resources
+C:\Users\Nauczyciel\Desktop\projects\EdycjaTekstu\EdycjaTekstu\EdycjaTekstu\obj\Debug\EdycjaTekstu.exe
+C:\Users\Nauczyciel\Desktop\projects\EdycjaTekstu\EdycjaTekstu\EdycjaTekstu\obj\Debug\EdycjaTekstu.pdb
